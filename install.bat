@@ -8,7 +8,6 @@ color 2
 :: MoonLib : https://github.com/Luunarr/moonlib ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 echo ##################################################
 echo ## MoonLib : https://github.com/Luunarr/moonlib ##
 echo ##################################################
@@ -21,6 +20,7 @@ echo ## MoonLib : https://github.com/Luunarr/moonlib ##
 echo ##################################################
 echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
+pause
 
 cls
 cd moonlib
@@ -31,6 +31,7 @@ echo ##################################################
 echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
+pause
 
 cls
 pip install .
@@ -42,8 +43,9 @@ echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
 echo [+] pip install moonlib
-cls
+pause
 
+cls
 echo.
 echo ##################################################
 echo ## MoonLib : https://github.com/Luunarr/moonlib ##
