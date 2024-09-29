@@ -4,7 +4,14 @@
 :: MoonLib : https://github.com/Luunarr/moonlib ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+color 3
+
+ehco ::::::::::::::::::::::::::::::::::::::::::::::::::
+echo :: MoonLib : https://github.com/Luunarr/moonlib ::
+echo ::::::::::::::::::::::::::::::::::::::::::::::::::
+
 color 2
+
 cls
 echo [+] git clone https://github.com/Luunarr/moonlib
 git clone https://github.com/Luunarr/moonlib
