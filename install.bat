@@ -55,5 +55,7 @@ color 5
 echo > Python Import :
 echo from moonlib import *
 echo Cmoon, Smoon, Bmoon, Emoon
+echo.
+echo.
 
 pause
