@@ -46,6 +46,7 @@ echo [+] pip install moonlib
 pause
 
 cls
+color 5
 echo.
 echo ##################################################
 echo ## MoonLib : https://github.com/Luunarr/moonlib ##
@@ -54,7 +55,6 @@ echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
 echo [+] pip install moonlib
-color 5
 echo.
 echo [+]  Python Import :
 echo - from moonlib import *
