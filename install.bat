@@ -23,7 +23,7 @@ echo [+] pip install moonlib
 pip install .
 
 echo.
-echo 🎀 Python Import :
+echo >>> Python Import :
 echo from moonlib import *
 echo Cmoon, Smoon, Bmoon, Emoon
 echo.
