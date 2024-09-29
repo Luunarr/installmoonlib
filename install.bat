@@ -54,7 +54,7 @@ echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
 echo [+] pip install moonlib
 color 5
-echo > Python Import :
+echo -- Python Import :
 echo from moonlib import *
 echo Cmoon, Smoon, Bmoon, Emoon
 echo.
