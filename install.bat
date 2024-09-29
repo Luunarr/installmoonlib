@@ -6,9 +6,9 @@ cls
 :: MoonLib : https://github.com/Luunarr/moonlib ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-echo ::::::::::::::::::::::::::::::::::::::::::::::::::
-echo :: MoonLib : https://github.com/Luunarr/moonlib ::
-echo ::::::::::::::::::::::::::::::::::::::::::::::::::
+echo ##################################################
+echo ## MoonLib : https://github.com/Luunarr/moonlib ##
+echo ##################################################
 
 echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
