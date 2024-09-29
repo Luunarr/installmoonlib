@@ -9,11 +9,11 @@ cls
 goto aa:
 
 echo.
-echo [+] git clone https://github.com/Luunarr/moonlib
+
 git clone https://github.com/Luunarr/moonlib
 
 echo.
-echo [+] cd moonlib
+
 cd moonlib
 
 echo.
@@ -25,5 +25,9 @@ echo >>> Python Import :
 echo from moonlib import *
 echo Cmoon, Smoon, Bmoon, Emoon
 echo.
+
+echo [+] git clone https://github.com/Luunarr/moonlib
+echo [+] cd moonlib
+echo [+] pip install moonlib
 
 pause
