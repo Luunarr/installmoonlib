@@ -43,13 +43,16 @@ echo [+] pip install moonlib
 cls
 
 echo.
+color 3
 echo ##################################################
 echo ## MoonLib : https://github.com/Luunarr/moonlib ##
 echo ##################################################
+color 2
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
 echo [+] pip install moonlib
-echo >>> Python Import :
+color 5
+echo > Python Import :
 echo from moonlib import *
 echo Cmoon, Smoon, Bmoon, Emoon
 
