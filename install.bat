@@ -20,6 +20,8 @@ echo ## MoonLib : https://github.com/Luunarr/moonlib ##
 echo ##################################################
 echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
+echo.
+
 pause
 
 cls
@@ -31,6 +33,8 @@ echo ##################################################
 echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
+echo.
+
 pause
 
 cls
@@ -43,6 +47,8 @@ echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
 echo [+] pip install moonlib
+echo.
+
 pause
 
 cls
@@ -59,7 +65,6 @@ echo.
 echo [+]  Python Import :
 echo - from moonlib import *
 echo - Cmoon, Smoon, Bmoon, Emoon
-echo.
 echo.
 
 pause
