@@ -2,6 +2,8 @@
 
 cls
 
+color 2
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 :: MoonLib : https://github.com/Luunarr/moonlib ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -43,11 +45,9 @@ echo [+] pip install moonlib
 cls
 
 echo.
-color 3
 echo ##################################################
 echo ## MoonLib : https://github.com/Luunarr/moonlib ##
 echo ##################################################
-color 2
 echo [+] git clone https://github.com/Luunarr/moonlib
 echo [+] cd moonlib
 echo [+] pip install moonlib
