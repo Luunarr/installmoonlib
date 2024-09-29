@@ -2,13 +2,16 @@
 
 cls
 
+aa:
+echo ##################################################
+echo ## MoonLib : https://github.com/Luunarr/moonlib ##
+echo ##################################################
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 :: MoonLib : https://github.com/Luunarr/moonlib ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-echo ##################################################
-echo ## MoonLib : https://github.com/Luunarr/moonlib ##
-echo ##################################################
+goto aa:
 
 echo.
 echo [+] git clone https://github.com/Luunarr/moonlib
