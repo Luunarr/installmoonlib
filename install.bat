@@ -17,7 +17,6 @@ echo.
 cd moonlib
 
 echo.
-echo [+] pip install moonlib
 pip install .
 
 echo.
