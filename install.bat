@@ -1,4 +1,4 @@
-@ehco off
+@echo off
 
 cls
 
